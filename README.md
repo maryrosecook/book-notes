@@ -1,6 +1,6 @@
 # Quotes
 
-Interesting quotes from books I've been reading.
+Interesting quotes from books I've read.
 
 ## Contact
 

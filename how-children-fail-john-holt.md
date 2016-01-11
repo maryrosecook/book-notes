@@ -1,5 +1,9 @@
 # How Children Fail - John Holt
 
+## Preface
+
+He and his colleagues tried to find out what makes some schools “effective," by which they meant a school in which the percentage of poor children who learn a satisfactory amount of what they are supposed to learn in any grade, enough to be legitimately promoted, is the same as the proportion of middle-class or affluent children.
+
 ## To Summarise
 
 ---

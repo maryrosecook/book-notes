@@ -103,6 +103,28 @@ We have to convince the children that they must not be afraid to ask questions; 
 
 When Nancy and Sheila worked the balance beam last year, they were often close to the truth, but they could never hang on to it because they could never express their ideas in a form they could test with an experiment. Once one of them said, "Things weigh more further out." This was a big step; but they couldn't think of a way to check or refine this insight, they couldn't ask themselves (to use their terms) how much more things weigh when they get further out.
 
+---
+
+The very natural mistake that Bill and I made was to think that the differences between the children in our class had to do with techniques of thinking, that the successful kids had good techniques of thinking while the unsuccessful, the "producers," had bad, and therefore that our task was to teach better techniques. But the unsuccessful kids were not trying, however badly, to do the same things as the successful. They were doing something altogether different. They saw the school and their task in it differently. It was a place of danger, and their task was, as far as they could, to stay out of danger. Their business was not learning, but escaping.
+
+About three years later I was working, among other things, as a special reading instructor or tutor in the school where for a couple of years I had taught fifth grade. I had persuaded the school to use in its first-grade classrooms Gattegno's Words in Color, a very ingenious set of materials, in which each sound of spoken English had its own color.
+
+One of the boys I was tutoring was a seven year-old who was not learning to read and was resisting all efforts to teach him. So I was asked to work with him alone. My method was to take letters that I had cut out of one of the Words in Color charts, use these letters to make short syllables, and ask him to read them. I see now that it would probably have been better to let him make the syllables and/ or words and let me pronounce them— though from time to time we may also have worked in that way.
+
+At any rate, I would use the letters to make a word like PAT. I'd ask him to read it, and he would. Then I would remove the P and put a C in its place, and ask him to read that. Gattegno called these "transformations," seeing how changing one letter in a word could change the sound of the word— a good idea. The boy would do three or four of these transformations perfectly correctly, though slowly— which meant, I see now, that he really could read, really did understand what reading was all about. But then all at once he would spring his nonsense syllable at me. It was always the same one. We might be working with words that had no letter I or T in them at all— say, RUN, FUN, BUN. Suddenly, when I asked him to read a word, he would say "stut." I would say, "What?" "Stut," he would say, calmly and clearly.
+
+That word rocked me back. Just as I would begin to think "He's really getting it, he's getting the idea of words and sounds," along would come this absurd syllable. How could he have made such a mistake? What did it mean? How was I to deal with it?'
+
+It took me a long time— many weeks or even months— to realize that when this boy said "Stut," he was not making a mistake at all. He was changing the situation. He had been doing one task that I had given him, to try to figure out the words I had put in front of him. Now he was doing a different task, getting himself a short rest, and me off his back for a while. Indeed, he was giving me a little task of my own, to figure out what in the world made him say "stut," and what in the world I was going to do about it. The ball had been in his court; now it was in mine.
+
+Eventually I figured out what was happening. Perhaps it was the way he was looking at me— not at all the rather tense and concentrated way he looked at the words, but calmly and curiously. He was looking to see what I would do next. I was now his guinea pig, not he mine.
+
+Since by this time I already knew the strategy of guess-and-look, I had learned, when I gave him a word to decode, to turn away so that he could not see my face. If he made a wrong guess or choice, I simply sat there and waited for him to make another. I said nothing; I let him be in charge of the pace of our work. But when he said "stut," I usually turned round to look at him. In time I learned not to do that. When he said "stut," I said nothing, did not move, just waited. Often there might be a silence of a minute or two. Then the boy, having meanwhile had a nice rest, would realize that somehow the ball had got out of my court and back into his. After a while he would go on with his work.
+
+None of this accomplished much, for reasons not clear to me then but much clearer now. This boy could in fact read, could "decode" simple words. But he did not want to, and had decided to refuse to.
+
+It would probably have been much more useful for him and for me if I had used our time together to read aloud to him from books of his choosing, or let him read them silently, with the understanding that whenever he wanted, he could ask me what a word meant and I would tell him— without any questions, explanations, or sound-it-outs.
+
 ## To Summarise
 
 By intelligence we mean a style of life, a way of behaving in various situations, and particularly in new, strange, and perplexing situations. The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do.

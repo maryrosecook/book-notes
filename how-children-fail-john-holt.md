@@ -125,6 +125,10 @@ None of this accomplished much, for reasons not clear to me then but much cleare
 
 It would probably have been much more useful for him and for me if I had used our time together to read aloud to him from books of his choosing, or let him read them silently, with the understanding that whenever he wanted, he could ask me what a word meant and I would tell him— without any questions, explanations, or sound-it-outs.
 
+---
+
+Worth noting here that a couple of years later, when I put a balance beam and some Weights on a table at the back of class, and just left it there without saying anything about it or trying to "teach" it, most of the children in the class, including some very poor students, figured out just by messing around with it how it worked.
+
 ## To Summarise
 
 By intelligence we mean a style of life, a way of behaving in various situations, and particularly in new, strange, and perplexing situations. The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do.

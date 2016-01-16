@@ -129,6 +129,12 @@ It would probably have been much more useful for him and for me if I had used ou
 
 Worth noting here that a couple of years later, when I put a balance beam and some Weights on a table at the back of class, and just left it there without saying anything about it or trying to "teach" it, most of the children in the class, including some very poor students, figured out just by messing around with it how it worked.
 
+---
+
+They are not the least interested in the object of the game, or whether their question gains useful information. The problem is simply to think of a question, any old question. The first danger is that you will just be sitting there, unable to think of a question. The next danger is that when you ask a question, other kids will think it is silly, laugh at it, say "That's no good."
+
+51
+
 ## To Summarise
 
 By intelligence we mean a style of life, a way of behaving in various situations, and particularly in new, strange, and perplexing situations. The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do.

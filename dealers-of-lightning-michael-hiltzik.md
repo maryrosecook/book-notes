@@ -7,3 +7,7 @@ One was Xerox’s money, a seemingly limitless cascade of cash flowing from its 
 ---
 
 The final factor was management. PARC was founded by men whose experience had taught them that the only way to get the best research was to hire the best researchers they could find and leave them unburdened by directives, instructions, or deadlines.
+
+---
+
+“The notion of a human being having to punch holes in lots of cards, keep these cards straight, and then take this deck of what might be hundreds and hundreds of cards to a computer… You come back the next day and find out that your program executed up until card 433 and then stopped because you left out a comma. You fix that and this time the program gets to card 4006 and stops because you forgot to punch an O instead of a zero or some other stupid reason. It was bleak.” Taylor perceived the need for something entirely new. “I started talking functionally,” he said. He asked himself: Which organ provides the greatest bandwidth in terms of its access to the human brain? Obviously, the eyeball. If one then contemplated how the computer could best communicate with its human operator, the answer suggested itself. “I thought the machine should concentrate its resources on the display.”

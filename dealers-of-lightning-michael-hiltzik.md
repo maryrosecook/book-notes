@@ -23,3 +23,7 @@ For years the military had viewed this issue in terms of training the human bein
 ---
 
 Ivan Sutherland was a brilliant MIT graduate who happened to be serving with the Army as a first lieutenant. Only twenty-six, he had already amassed an enviable research record, the crowning achievement of which had been the development of the first interactive computer graphics program. Known as Sketchpad, the system allowed a user to draw highly detailed and complex drawings directly on a computer’s cathode-ray screen using a light pen and store them in memory.
+
+---
+
+Nothing of the kind ever occurred at Xerox research. The Webster engineering and research staff treated the new science of computer-aided design with utter indifference. Webster’s classically educated chemists, physicists, and metallurgists devoted their attention to narrow, product-oriented tasks, trying to develop better toners and photoreceptors to drop into copiers designed the same old way. As far as that went they were talented enough, but they had no incentive to keep up with new research techniques. As for applying imagination to an entirely new science, concept, or machine, Webster was hopeless. It was not research as Jack Goldman understood the word; it was product development, which was something very different.

@@ -27,3 +27,7 @@ Ivan Sutherland was a brilliant MIT graduate who happened to be serving with the
 ---
 
 Nothing of the kind ever occurred at Xerox research. The Webster engineering and research staff treated the new science of computer-aided design with utter indifference. Webster’s classically educated chemists, physicists, and metallurgists devoted their attention to narrow, product-oriented tasks, trying to develop better toners and photoreceptors to drop into copiers designed the same old way. As far as that went they were talented enough, but they had no incentive to keep up with new research techniques. As for applying imagination to an entirely new science, concept, or machine, Webster was hopeless. It was not research as Jack Goldman understood the word; it was product development, which was something very different.
+
+---
+
+“Real research people tend to interact with the world at large,” he observed. “They know what’s happening on the university campuses and get invited back and forth, so they become an avenue through which you can attract new ideas into the company. Research is a funnel through which you can bring in people who normally won’t talk to the guys down in the trenches designing equipment,” he said. Xerox had not been getting new ideas, and it showed.

@@ -35,3 +35,7 @@ Nothing of the kind ever occurred at Xerox research. The Webster engineering and
 ---
 
 The architecture of information: The phrase might as well have been chiseled over the doors of the hilltop palace Xerox would soon build to house a group of employees quite unlike any others the company had ever placed on its payroll. “It was a great phrase,” one PARC engineer said later, “because nobody knew exactly what it meant. So there were quite a few interesting things you could do and simply cite that as the justification.”
+
+---
+
+Pake hesitated, wondering about Xerox’s resolve over the long haul. “I had a lot of friends at other industrial research establishments and the usual thing they were worried about was the feast-or-famine effect,” he said later. “You know, in the good business years the company invests in research, but in the bad years they want to pull out.” That was a recipe for wasting millions of dollars. “Research is a steady-state thing. You can’t just turn it on and off.”

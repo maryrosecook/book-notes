@@ -39,3 +39,7 @@ The architecture of information: The phrase might as well have been chiseled ove
 ---
 
 Pake hesitated, wondering about Xerox’s resolve over the long haul. “I had a lot of friends at other industrial research establishments and the usual thing they were worried about was the feast-or-famine effect,” he said later. “You know, in the good business years the company invests in research, but in the bad years they want to pull out.” That was a recipe for wasting millions of dollars. “Research is a steady-state thing. You can’t just turn it on and off.”
+
+---
+
+“I said if you hire me you will get nothing of business value in five years,” he recalled. “But if you don’t have something of value in ten years, then you’ll know you’ve hired the wrong guy.”

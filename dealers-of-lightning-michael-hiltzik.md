@@ -43,3 +43,7 @@ Pake hesitated, wondering about Xerox’s resolve over the long haul. “I had a
 ---
 
 “I said if you hire me you will get nothing of business value in five years,” he recalled. “But if you don’t have something of value in ten years, then you’ll know you’ve hired the wrong guy.”
+
+---
+
+Pake directed Goldman’s attention westward.

@@ -47,3 +47,7 @@ Pake hesitated, wondering about Xerox’s resolve over the long haul. “I had a
 ---
 
 Pake directed Goldman’s attention westward.
+
+---
+
+Jones, Squires, and Gloria Warner, a senior secretary who relocated from Webster to work for Pake, spent the next week working like char-women. With brooms, buckets, and mops purchased from the nearest K Mart, they swept up the accumulated filth themselves and installed a rickety table and chairs in the clearing.

@@ -63,3 +63,7 @@ Whether they were at MIT, Stanford, or UCLA, researchers were all looking for an
 ---
 
 The notion that any arm of the Pentagon could engage in wholly innocent and purely civilian research incited mistrust across the country. As a defensive measure, ARPA started to shed its civilian entanglements and consciously remake itself into what the nation thought it was anyway—an arm of the war machine. When the Caltech engineer Eberhardt Rechtin succeeded Herzfeld as director in 1967, he assured his congressional overseers he would nudge ARPA toward “mission-oriented” objectives—programs aimed at satisfying chiefly military goals. The 1969 Mansfield Amendment to the military appropriations bill would formalize the trend, directing the Pentagon henceforth to fund only projects of obvious military relevance. As if to underscore the point, the amendment changed ARPA’s name to DARPA, the Defense Advanced Research Projects Agency.
+
+---
+
+Taylor beheld the emasculation of government research with frank alarm. “Most of the time I was there ARPA was going for projects with an order-of-magnitude impact on the state of the science,” he reflected. “We had made a decision that we would not go for incremental things. But as soon as you get mission orientation you’re focusing on very narrow objectives.”

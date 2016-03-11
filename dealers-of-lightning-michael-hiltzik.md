@@ -67,3 +67,7 @@ The notion that any arm of the Pentagon could engage in wholly innocent and pure
 ---
 
 Taylor beheld the emasculation of government research with frank alarm. “Most of the time I was there ARPA was going for projects with an order-of-magnitude impact on the state of the science,” he reflected. “We had made a decision that we would not go for incremental things. But as soon as you get mission orientation you’re focusing on very narrow objectives.”
+
+---
+
+In Pake’s hard science universe, where researchers laid their bricks upon foundations that had been built as long as three centuries earlier, a doctorate was a certificate of genuine originality and achievement. That was not true in the fledgling science of computing, which was erecting its own academic foundation as it went along. Nor did Pake’s viewpoint apply very well to Taylor’s unique abilities as a master motivator of top research talent, which could never be encompassed within the rubric of any advanced university degree.

@@ -71,3 +71,7 @@ Taylor beheld the emasculation of government research with frank alarm. “Most 
 ---
 
 In Pake’s hard science universe, where researchers laid their bricks upon foundations that had been built as long as three centuries earlier, a doctorate was a certificate of genuine originality and achievement. That was not true in the fledgling science of computing, which was erecting its own academic foundation as it went along. Nor did Pake’s viewpoint apply very well to Taylor’s unique abilities as a master motivator of top research talent, which could never be encompassed within the rubric of any advanced university degree.
+
+---
+
+All he asked to be spelled out was Pake’s understanding that Xerox’s cherished “office of the future” would embrace networking and interactive computers. Pake agreed without devoting much thought to what those terms implied.

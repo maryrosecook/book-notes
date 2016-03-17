@@ -75,3 +75,7 @@ In Pake’s hard science universe, where researchers laid their bricks upon foun
 ---
 
 All he asked to be spelled out was Pake’s understanding that Xerox’s cherished “office of the future” would embrace networking and interactive computers. Pake agreed without devoting much thought to what those terms implied.
+
+---
+
+Pake also established by the close of 1970 a full research agenda. In a corporate memo dated January 4, 1971, he outlined an ambitious program for his group of twenty-three, augmented by another eight or ten professionals due to start work over the following few months. The Systems Science Lab was to take over development of a laser-driven computer printer whose inventor, a Webster engineer, had come west after failing to interest his bosses in its potential. SSL researchers would also investigate optical memories, a technology that would eventually give rise to today’s compact disc and CD-ROM, and speech recognition by computer. Taylor’s Computer Science Lab was to pursue his pet interest in graphics while developing specifications for a basic center-wide computer system. And GSL was assigned studies in solid-state technologies, including the electrical and optical qualities of crystals.

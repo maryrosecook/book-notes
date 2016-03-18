@@ -79,3 +79,7 @@ All he asked to be spelled out was Pake’s understanding that Xerox’s cherish
 ---
 
 Pake also established by the close of 1970 a full research agenda. In a corporate memo dated January 4, 1971, he outlined an ambitious program for his group of twenty-three, augmented by another eight or ten professionals due to start work over the following few months. The Systems Science Lab was to take over development of a laser-driven computer printer whose inventor, a Webster engineer, had come west after failing to interest his bosses in its potential. SSL researchers would also investigate optical memories, a technology that would eventually give rise to today’s compact disc and CD-ROM, and speech recognition by computer. Taylor’s Computer Science Lab was to pursue his pet interest in graphics while developing specifications for a basic center-wide computer system. And GSL was assigned studies in solid-state technologies, including the electrical and optical qualities of crystals.
+
+---
+
+With scant equipment of any value on the premises, the building stayed unlocked and hospitable to outsiders. “We were physically adjacent to Stanford University, so there were visitors dropping in and out of the lab all the time. A lot of us even came to feel we were sort of like university instructors who got to spend all our time doing research without having to teach classes. So we operated as though this were an open environment where we were free to share what we were doing with anyone we wanted to.”

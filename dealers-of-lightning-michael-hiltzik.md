@@ -83,3 +83,7 @@ Pake also established by the close of 1970 a full research agenda. In a corporat
 ---
 
 With scant equipment of any value on the premises, the building stayed unlocked and hospitable to outsiders. “We were physically adjacent to Stanford University, so there were visitors dropping in and out of the lab all the time. A lot of us even came to feel we were sort of like university instructors who got to spend all our time doing research without having to teach classes. So we operated as though this were an open environment where we were free to share what we were doing with anyone we wanted to.”
+
+---
+
+In a superb buyers’ market for research and engineering talent, PARC’s lavish budget and open-ended charter stood alone among corporate entities. Other industrial research centers might enjoy generous funding or comparably liberal charters, but none had both the open checkbook and apparent immunity from product development pressures enjoyed by PARC.

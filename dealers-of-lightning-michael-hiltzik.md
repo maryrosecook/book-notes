@@ -87,3 +87,7 @@ With scant equipment of any value on the premises, the building stayed unlocked 
 ---
 
 In a superb buyers’ market for research and engineering talent, PARC’s lavish budget and open-ended charter stood alone among corporate entities. Other industrial research centers might enjoy generous funding or comparably liberal charters, but none had both the open checkbook and apparent immunity from product development pressures enjoyed by PARC.
+
+---
+
+He was right about that. Toward the end of 1970 Taylor called in some of his old chits to stage a pair of dazzling heists. The first was a raid on the only laboratory on the West Coast—possibly the country—whose work on interactive computing met his stern standards. The lab belonged to the legendary engineer Douglas C. Engelbart, an adamantine visionary who held court out of a small think tank called SRI, or the Stanford Research Institute, a couple of miles north of Palo Alto in the community of Menlo Park. There Engelbart had established his “Augmentation Research Center.” The name derived from his conviction that the computer was not only capable of assisting the human thought process, but reinventing it on a higher plane. The “augmentation of human intellect,” as he defined it, meant that the computer’s ability to store, classify, and retrieve information would someday alter the very way people thought, wrote, and figured.

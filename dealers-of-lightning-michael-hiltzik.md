@@ -107,3 +107,7 @@ Until 1968 Engelbart and his aides labored in relative obscurity, their work kno
 ---
 
 Engelbart’s self-defined mission was not to produce a product, or even a prototype; it was an open-ended search for knowledge. Consequently, no project in his lab ever seemed to come to an end. Whenever one approached a milestone he would abruptly redefine it, condemning the lab to months or years of further work. The finish line was constantly receding, like the oasis in a desert mirage. Said one long-term member of his lab: “We were like rats running in his maze.”
+
+---
+
+Bill English had been the invisible guiding hand behind the 1968 demo. He was ferociously loyal to his boss but bridled at the lab’s perpetual lack of closure. Some also believed he was fed up with Engelbart’s way of monopolizing credit for the lab’s accomplishments. Taylor offered English a solution to both complaints: reproduce NLS, or something like it, at PARC. English could thus fulfill his treasured goal of bringing the system to commercial fruition and be in charge of his own lab, out from under the shadow of the implacable Engelbart. Whether English hesitated leaving the leader he had followed for nearly a decade is hard to say, but he continued the raid where Taylor left off, eventually recruiting a dozen of Engelbart’s most important followers.

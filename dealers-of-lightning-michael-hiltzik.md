@@ -118,4 +118,8 @@ The BCC pioneers were about to become victims of the “second-system effect.”
 
 ---
 
-Some of the workers, including Thacker, could tell early on that the project was getting out of hand. The engineer’s engineer possessed the unique trait of aiming for less, not more, in his systems. “This was so unusual for an engineer,” recalled Charles Simonyi,
+Some of the workers, including Thacker, could tell early on that the project was getting out of hand. The engineer’s engineer possessed the unique trait of aiming for less, not more, in his systems. “This was so unusual for an engineer,” recalled Charles Simonyi
+
+---
+
+Just as BCC filed for bankruptcy (one final drunken party on Friday, November 13, 1970, drained the last of its petty cash), PARC hired six of its best people—Lampson, Thacker, Deutsch, Fiala, a hardware designer named Richard Shoup, and a software programmer named Jim Mitchell.

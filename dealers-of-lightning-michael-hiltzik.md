@@ -123,3 +123,7 @@ Some of the workers, including Thacker, could tell early on that the project was
 ---
 
 Just as BCC filed for bankruptcy (one final drunken party on Friday, November 13, 1970, drained the last of its petty cash), PARC hired six of its best people—Lampson, Thacker, Deutsch, Fiala, a hardware designer named Richard Shoup, and a software programmer named Jim Mitchell.
+
+---
+
+Taylor had completed his team—almost. He had the best hardware man (Thacker), the best designer of operating systems (Lampson), and an entire cell of other computer science prodigies.

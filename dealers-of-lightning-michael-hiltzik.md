@@ -127,3 +127,7 @@ Just as BCC filed for bankruptcy (one final drunken party on Friday, November 13
 ---
 
 Taylor had completed his team—almost. He had the best hardware man (Thacker), the best designer of operating systems (Lampson), and an entire cell of other computer science prodigies.
+
+---
+
+The BCC group, deeply rooted in the culture of time-sharing, was still intent on getting as many users hooked into a single machine as technologically possible. That goal, as Wes Clark contended, remained incompatible with giving the individual the kind of speed and responsiveness that interactivity required.

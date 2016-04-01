@@ -131,3 +131,7 @@ Taylor had completed his team—almost. He had the best hardware man (Thacker), 
 ---
 
 The BCC group, deeply rooted in the culture of time-sharing, was still intent on getting as many users hooked into a single machine as technologically possible. That goal, as Wes Clark contended, remained incompatible with giving the individual the kind of speed and responsiveness that interactivity required.
+
+---
+
+But one man was way ahead of them all. That one had written a doctoral thesis at Utah in 1969 describing an idealized interactive computer called the FLEX machine. He had experimented with powerful displays and with computers networked in intricate configurations. On page after page of his dissertation he lamented the inability of the world’s existing hardware to realize his dream of an interactive personal computer. He set before science the challenge to build the machine he imagined, one with “enough power to outrace your senses of sight and hearing, enough capacity to store thousands of pages, poems, letters, recipes, records, drawings, animations, musical scores, and anything else you would like to remember and change.” To Taylor he was a soulmate and a profound thinker, capable of seeing a computing future far beyond anything even he could imagine. Among the computer scientists familiar with his ideas, half thought he was a crackpot and the other half a visionary. His name was Alan Kay.

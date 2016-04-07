@@ -147,3 +147,7 @@ Ideaspace Central today is divided between two Southern California locations abo
 ---
 
 This notion of technology as a means to an end still distinguishes Kay from most other practitioners of the art and science of technology. One factor in his powerful kinship with Bob Taylor was their shared curiosity about what this machine could be made to do, more than how. Notwithstanding his incessant harangues, most of the inspired engineers Taylor recruited to CSL, the Lampsons and Thackers, started out too blindly focused on the issue of what was within their power to actually build. They would ask: What is the next stop on the road? Kay turned the question inside out: Let’s figure out where we want to go, and that will show us how to get there. He never lost sight of the computer’s appropriate station in the world: to conform to the user’s desires, not the other way around.
+
+---
+
+

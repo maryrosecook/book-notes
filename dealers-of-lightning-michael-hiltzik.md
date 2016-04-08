@@ -151,3 +151,7 @@ This notion of technology as a means to an end still distinguishes Kay from most
 ---
 
 “People get trapped in thinking that anything in the environment is to be taken as a given. It’s part of the way our nervous system works. But it’s dangerous to take it as a given because then it controls you, rather than the other way around. That’s McLuhan’s insight, one of the bigger ones in the twentieth century. Zen in the twentieth century is about taking things that have been rendered invisible by this process and trying to make them visible again.
+
+---
+
+“People get trapped in thinking that anything in the environment is to be taken as a given. It’s part of the way our nervous system works. But it’s dangerous to take it as a given because then it controls you, rather than the other way around. That’s McLuhan’s insight, one of the bigger ones in the twentieth century. Zen in the twentieth century is about taking things that have been rendered invisible by this process and trying to make them visible again.

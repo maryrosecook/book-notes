@@ -159,3 +159,7 @@ This notion of technology as a means to an end still distinguishes Kay from most
 ---
 
 “Parents ask me what they should do to help their kids with science. I say, on a walk always take a magnifying glass along. Be a miniature exploratorium….”
+
+---
+
+Jeffers was a junior, a year behind Kay (although since Kay’s illness lost him a year of school, they graduated together). He was also a superb pianist with perfect pitch and a thriving jazz band. Kay joined up on guitar. The band played Dixieland jazz from Jeffers’s effortless arrangements, an interesting choice if one is looking for a form that imposes strict formal rules on players who are encouraged to break them according to another set of strict formal rules.

@@ -191,3 +191,7 @@ Liberated from slavish adherence to the PDP—10 design, they were able to get d
 ---
 
 At first glance, devoting so much time and money to reproducing a computer available on the open market seemed sheer profligacy. But from Taylor’s point of view, the assignment to produce a real machine had given his engineers a unique opportunity to parse out their own strengths and weaknesses in ways Taylor could never have devised himself. What emerged at the end of the program was a seamless, remarkably powerful unit.
+
+---
+
+“In a small group the dynamics are like those on a good basketball team,” Kay observed. “Everybody has to be able to play the whole game. Each person should have certain things they’re better at than the others, but everyone should be pretty good at everything.”

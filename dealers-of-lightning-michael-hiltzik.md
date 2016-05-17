@@ -227,3 +227,7 @@ Taylor’s predecessors had bequeathed him the axiom that the best way to manage
 ---
 
 It was the dealer’s prerogative to set not only the topic of discussion, but the rules of debate. “I wanted to have conditions where someone could get up to the table and set rules as czar,” Taylor recalled. “You could say, no interruptions; or interrupt whenever you want. Or I’ll only debate x, y, or z; or only righthanders can argue.” The discussion topics were similarly unconstrained. Certainly they tended toward issues of importance to the lab, but that category was broadly defined. Bob Flegal, a CSL graphics expert, once demonstrated for his colleagues how to take a bicycle apart and lubricate the parts,
+
+---
+
+“If someone tried to push their personality rather than their argument, they’d find that it wouldn’t work.” But the argument had best be carefully thought out. Anyone trying to slip an unsound concept past this group was sure to be stopped short by an explosive “Bullshit!” from Thacker or “Nonsense!” from the beetle-browed ARPANET veteran Severe Ornstein. Then would follow a cascade of angry denunciations: “You don’t know what you’re talking about!” “That’ll never work!” “That’s the stupidest idea I’ve ever heard!” Lampson might add a warp-speed chapter-and-verse deconstruction of the speaker’s sorry reasoning. If the chastened dealer was lucky (and still standing), the discussion might finally turn to how he might improve on his poor first effort.

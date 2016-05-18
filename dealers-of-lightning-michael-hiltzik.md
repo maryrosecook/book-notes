@@ -231,3 +231,7 @@ It was the dealer’s prerogative to set not only the topic of discussion, but t
 ---
 
 “If someone tried to push their personality rather than their argument, they’d find that it wouldn’t work.” But the argument had best be carefully thought out. Anyone trying to slip an unsound concept past this group was sure to be stopped short by an explosive “Bullshit!” from Thacker or “Nonsense!” from the beetle-browed ARPANET veteran Severe Ornstein. Then would follow a cascade of angry denunciations: “You don’t know what you’re talking about!” “That’ll never work!” “That’s the stupidest idea I’ve ever heard!” Lampson might add a warp-speed chapter-and-verse deconstruction of the speaker’s sorry reasoning. If the chastened dealer was lucky (and still standing), the discussion might finally turn to how he might improve on his poor first effort.
+
+---
+
+Bob Metcalfe, who arrived at CSL in 1972 with the reassuring credentials of a Harvard and MIT education. Metcalfe was acerbic and free-speaking, a man who never met an ego he couldn’t pierce. At Dealer his radar often detected the unmistakable “ping” of people pulling rank. “I’m being cynical now, but if you were from Berkeley or MIT or, especially, CMU, you’d give your talk, you’d get some questions, you’d get congratulated, and you’d get a job offer,” he said. “But if you were some poor schmuck from the University of Arizona, they’d grill you and it was all over. In other words, if the department head at CMU said you were cool, that was good enough for them.”

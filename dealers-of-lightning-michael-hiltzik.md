@@ -235,3 +235,7 @@ It was the dealer’s prerogative to set not only the topic of discussion, but t
 ---
 
 Bob Metcalfe, who arrived at CSL in 1972 with the reassuring credentials of a Harvard and MIT education. Metcalfe was acerbic and free-speaking, a man who never met an ego he couldn’t pierce. At Dealer his radar often detected the unmistakable “ping” of people pulling rank. “I’m being cynical now, but if you were from Berkeley or MIT or, especially, CMU, you’d give your talk, you’d get some questions, you’d get congratulated, and you’d get a job offer,” he said. “But if you were some poor schmuck from the University of Arizona, they’d grill you and it was all over. In other words, if the department head at CMU said you were cool, that was good enough for them.”
+
+---
+
+Butler Lampson. His combination of a razor-sharp intellect with peerless debating skills raised the bar for new ideas to an intimidating height. It was not impossible to win an argument with Lampson, but it was not at all rare for him to win one even when he was wrong. Even as practiced a navigator of Ideaspace as Alan Kay could be backed to the wall when one of his flights of fancy came up against Lampson’s rigorous command of pragmatic engineering. Routed in the battles, Kay sometimes had to retreat and regroup for another run at the fence. “I can’t ever remember winning an argument with Butler on the same day,” he said later. “I could win quite a few on the second day. His mind worked about twice as fast as anyone else’s.”

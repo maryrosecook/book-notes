@@ -255,3 +255,7 @@ At one point Tom Sawyering even begot an audacious extracurricular project. This
 ---
 
 “The lights would all be lit and dozens of people around, even it if was nine or ten at night,” he recalled. “Often they were playing computer games. Now, just remember, in those days computer games were not what they are today. This was a new thing. These guys were literally inventing computer games and learning how to use the machine.”
+
+---
+
+Alan Kay, who Brand introduced as something of a hacker eminence offering his own definition of “the standard Computer Bum”: “He’s someone about as straight as you’d expect hot-rodders to look. It’s that kind of fanaticism. A true hacker is not a group person. He’s a person who loves to stay up all night, he and the machine in a love-hate relationship… They’re kids who tended to be brilliant but not very interested in conventional goals.” Kay’s assessment of the computer scientist’s professional mores could not have been better designed to raise hackles in the Stamford executive suite. “People are willing to pay you if you’re any good at all,” he observed, “and you have plenty of time for screwing around.”
